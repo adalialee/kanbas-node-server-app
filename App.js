@@ -1,7 +1,7 @@
 import express from 'express';
 import Hello from './Hello.js';
 import Lab5 from './Laboratory5.js';
-import CourseRoutes from './Kanbas/Courses/routes.js';
+import CourseRoutes from './Kanbas/Couruses/routes.js';
 import ModuleRoutes from './Kanbas/Modulas/routes.js';
 // import AssignmentRoutes from './Kanbas/Assignments/routes.js';
 // import QuizRoutes from './Kanbas/Quizzes/routes.js';
